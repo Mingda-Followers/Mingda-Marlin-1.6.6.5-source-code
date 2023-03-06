@@ -1,3 +1,4 @@
+# !!!This firmware is for educational purposes only, in any case do not compile it on your 3D printer.!!! 
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
